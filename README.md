@@ -1,2 +1,2 @@
 # GitPractice
-Author: Sudheer
+Author: Sudheer Vuppada
